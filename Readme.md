@@ -11,6 +11,10 @@ and there is apparently some issues with impendances in the design due to some l
 <b> There is great chance that the board wlll product a lot of interferances </b>
 <br/>
 <br/>
+
+--------------------
+
+
 This repository contains hardware designs and software for HackRF,
 a low cost, open source Software Defined Radio platform.
 
