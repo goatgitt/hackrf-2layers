@@ -8,7 +8,7 @@ as said in [#1283](https://github.com/greatscottgadgets/hackrf/pull/1283),
 
 and there is apparently some issues with impendances in the design due to some loops of the ground connections
 
-There is great chance that the board wlll product a lot of interferances
+<b> There is great chance that the board wlll product a lot of interferances </b>
 
 
 This repository contains hardware designs and software for HackRF,
