@@ -12,7 +12,7 @@ and there are apparently some issues with impendances in the design due to some 
 
 --------------------
 
-<b> For this part go on the [official repo](https://github.com/greatscottgadgets/hackrf) </b>
+<b> For the part below go on the [official repo](https://github.com/greatscottgadgets/hackrf) </b>
 
 --------------------
 
