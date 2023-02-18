@@ -1,6 +1,6 @@
 # HackRF-2layers
 
-# This is a proof of concept of the 2 layers version
+<b> This is a proof of concept of the 2 layers version </b>
 
 as said in [#1283](https://github.com/greatscottgadgets/hackrf/pull/1283),
 
