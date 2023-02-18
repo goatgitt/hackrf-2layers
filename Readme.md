@@ -6,11 +6,11 @@ as said in [#1283](https://github.com/greatscottgadgets/hackrf/pull/1283),
 
 # The board is not tested
 
-and there is apparently some issues with impendances in the design due to some loops of the ground connections
+and there is apparently some issues with impendances in the design due to some loops because of some ground connections
 
 <b> There is great chance that the board wlll product a lot of interferances </b>
-
-
+<p></p>
+<p></p>
 This repository contains hardware designs and software for HackRF,
 a low cost, open source Software Defined Radio platform.
 
