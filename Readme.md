@@ -1,4 +1,15 @@
-# HackRF
+# HackRF-2layers
+
+# This is a proof of concept of the 2 layers version
+
+as said in [#1283](https://github.com/greatscottgadgets/hackrf/pull/1283),
+
+# The board is not tested
+
+and there is apparently some issues with impendances in the design due to some loops of the ground connections
+
+There is great chance that the board wlll product a lot of interferances
+
 
 This repository contains hardware designs and software for HackRF,
 a low cost, open source Software Defined Radio platform.
