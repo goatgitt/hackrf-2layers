@@ -6,11 +6,9 @@ as said in [#1283](https://github.com/greatscottgadgets/hackrf/pull/1283),
 
 # The board is not tested
 
-and there is apparently some issues with impendances in the design due to some loops because of some ground connections
+and there are apparently some issues with impendances in the design due to some loops because of some ground connections
 
-<b> There is great chance that the board wlll product a lot of interferances </b>
-<br/>
-<br/>
+<b> There is good chance that the board wlll product a lot of interferances </b>
 
 --------------------
 
