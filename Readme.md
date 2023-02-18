@@ -14,6 +14,7 @@ and there is apparently some issues with impendances in the design due to some l
 
 --------------------
 
+For this part go on the [official repo](https://github.com/greatscottgadgets/hackrf)
 
 This repository contains hardware designs and software for HackRF,
 a low cost, open source Software Defined Radio platform.
