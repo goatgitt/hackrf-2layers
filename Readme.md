@@ -1,3 +1,20 @@
+# HackRF-2layers
+
+<b> This is a proof of concept of the 2 layers version </b>
+
+as said in [#1283](https://github.com/greatscottgadgets/hackrf/pull/1283),
+
+# The board is not tested
+
+and there are apparently some issues with impendances in the design due to some loops because of some ground connections
+
+<b> There is good chance that the board wlll product a lot of interferances </b>
+
+--------------------
+
+<b> For the part below go on the [official repo](https://github.com/greatscottgadgets/hackrf) </b>
+
+--------------------
 # HackRF
 
 This repository contains hardware designs and software for HackRF,
